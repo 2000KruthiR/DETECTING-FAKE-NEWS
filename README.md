@@ -1,6 +1,8 @@
-#DEVTERN DETECTING-FAKE-NEWS
-Fake new detection overview Steps
-1- Import necessary libraries
-2- Read and explore the dataset
-3- Build a model using PassiveAggressiveClassifier
-4- Evaluate the model's accuracy
+#DEVTERN 
+#TASK 1:
+DETECTING FAKE NEWS
+TASK 2:
+#UBER TRIP ANALYSIS
+TASK 3:
+#THE DISCOVERY OF HANDWASHING- A PYTHON RECREATION
+
